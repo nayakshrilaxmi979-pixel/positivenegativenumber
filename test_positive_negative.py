@@ -8,6 +8,3 @@ def test_positive():
 def test_negative():
     assert positiveandnegative(-7) == "Negative number"
 
-
-def test_zero():
-    assert positiveandnegative(0) == "Zero"

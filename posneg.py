@@ -4,8 +4,6 @@ def positiveandnegative(num):
         return "Positive number"
     elif num < 0:
         return "Negative number"
-    else:
-        return "Zero"
 
 print("Result is: ", positiveandnegative(7))
 
